@@ -356,11 +356,8 @@ Contributions are welcome! Please follow these steps:
 - Thanks to all contributors who have helped improve this project
 - Special thanks to the medical community for their support
 
-## 📞 Support
-
-For support, email [your-email@example.com] or open an issue in the repository.
-
 ---
 
 **Made with ❤️ for the bone marrow donation community**
+
 
